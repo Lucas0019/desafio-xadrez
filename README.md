@@ -1,4 +1,20 @@
-# Desafio - Contando peças de Xadrez
+<br />
+<p align="center">
+    <!-- <img src="https://i.pinimg.com/originals/dd/64/da/dd64da585bc57cb05e5fd4d8ce873f57.png" alt="Logo" width="200"> -->
+
+  <h3 align="center">Deafio de Xadrez by <a href="https://github.com/Lucas0019">Lucas</a></h3>
+ <br />
+  <p align="center">
+     Contando peças de xadrez
+       <br />
+    <br />
+    <a href="#">Desafio</a>
+    ·
+    <a href="https://www.devchallenge.com.br/">DevChallenge</a>
+  </p>
+</p>
+
+<hr>
 
 O xadrez é um jogo de tabuleiro estratégico, em que dois jogadores disputam a vitoria, o jogo consiste em um tabuleiro com um arranjo de 8 linhas e colunas, formando 64 posições diferentes como uma matriz [8 x 8].
 
